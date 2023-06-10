@@ -1,0 +1,6 @@
+gtirb==1.10.3
+gtirb-capstone==1.0.0
+gtirb-functions==1.0.6
+gtirb-rewriting==0.0.20
+capstone==4.0.2
+optuna==2.7.0
